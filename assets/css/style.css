@@ -28,7 +28,7 @@ html{
     border-radius: 20px;
 }
 
-@media (max-width: 360px){
+@media (max-width: 500px){
     .login-box{
         scale: 0.7;
     }

@@ -28,6 +28,12 @@ html{
     border-radius: 20px;
 }
 
+@media (max-width: 360px){
+    .login-box{
+        scale: 0.7;
+    }
+}
+
 .login-box h1 {
     margin: 0;
     padding: 10px 0px 10px 0px;
